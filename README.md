@@ -5,3 +5,4 @@
 - Name
 - Main
 - Where is it used?
+- A functional example
